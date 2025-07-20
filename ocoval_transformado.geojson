@@ -1,4 +1,6 @@
-
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Latitud": 39.44556926, "Longitud": -0.368779592, "Dirección": "Av. Ausiàs March", "Tipo": "Acometida agua", "Inicio": "2025-07-22", "Fin": "2025-07-24" }, "geometry": { "type": "Point", "coordinates": [ -0.368779592, 39.44556926 ] } },
 { "type": "Feature", "properties": { "Latitud": 39.46394937, "Longitud": -0.357778705, "Dirección": "Av. Balears", "Tipo": "Arqueta eléctrica", "Inicio": "2025-07-17", "Fin": "2025-07-22" }, "geometry": { "type": "Point", "coordinates": [ -0.357778705, 39.46394937 ] } },
