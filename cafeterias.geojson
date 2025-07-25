@@ -1,0 +1,4835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37911058961204647,
+          39.47144165609073
+        ]
+      },
+      "properties": {
+        "Cafetería": "Aurora. Specialty Coffee",
+        "Calle": "C/ d'Escolano, 25",
+        "Descripción": "Espacio tranquilo para trabajar y pet friendly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47048280391334313,
+          39.496856436809615
+        ]
+      },
+      "properties": {
+        "Cafetería": "Barista Café",
+        "Calle": "C/ Domenyo, 4, a",
+        "Descripción": "Café 100% arábica, recién tostado "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32624503275492206,
+          39.472500000628706
+        ]
+      },
+      "properties": {
+        "Cafetería": "Bikini Cabanyal",
+        "Calle": "C/ de les Drassanes, 52, Poblats Marítims, 46011 ",
+        "Descripción": "En pleno corazón del Cabanyal: café de especialidad, cocina casera y cócteles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3721753601519024,
+          39.46205388527896
+        ]
+      },
+      "properties": {
+        "Cafetería": "Blackbird Café",
+        "Calle": "C/ Reina Na María 7",
+        "Descripción": "Todo hecho en casa, desde el obrador hasta tu taza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3786984919463112,
+          39.47596818836326
+        ]
+      },
+      "properties": {
+        "Cafetería": "Blackbird Café – Little Blackbird",
+        "Calle": "C/ Danzas 2",
+        "Descripción": "Con el espíritu de 'Blackbird' de The Beatles como inspiración"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3758182057687584,
+          39.46204714483405
+        ]
+      },
+      "properties": {
+        "Cafetería": "Bluebell Coffee Roasters",
+        "Calle": "C/ Buenos Aires 3",
+        "Descripción": "Compromiso con el origen, la sostenibilidad y el trabajo bien hecho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34920681844764045,
+          39.46019470570202
+        ]
+      },
+      "properties": {
+        "Cafetería": "Borja Specialty Coffee",
+        "Calle": "C/ de Vicente Beltrán Grimal, 23",
+        "Descripción": "Un espacio para los más instagramers, donde cada detalle cuenta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35925813090877085,
+          39.47176144583108
+        ]
+      },
+      "properties": {
+        "Cafetería": "Boscon Coffee",
+        "Calle": "C/ de Finlàndia, 16, El Pla del Real, 46010 ",
+        "Descripción": "Un local donde lo cotidiano se vuelve extraordinario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38642368961192786,
+          39.47555447366901
+        ]
+      },
+      "properties": {
+        "Cafetería": "BOTANIC Café-Té",
+        "Calle": "C/ de Quart, 91",
+        "Descripción": "Local de especialidad con tuestes artesanales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37885454543621067,
+          39.46910828270907
+        ]
+      },
+      "properties": {
+        "Cafetería": "Brewtalist Coffee Hub",
+        "Calle": "C/ de Baldoví, 2",
+        "Descripción": "Su lema: el sitio si odias lo mediocre y buscas algo más que agua marrón caliente."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36607276159097385,
+          39.46916716238398
+        ]
+      },
+      "properties": {
+        "Cafetería": "Butter Eatery House",
+        "Calle": "C/ del Gravador Esteve, 33",
+        "Descripción": "Pastelería sin gluten hecha con ingredientes de calidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3290596904572107,
+          39.46688860215571
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café ArtySana",
+        "Calle": "C/ de La Reina, 56",
+        "Descripción": "Cocina casera veggie, buen café y arte local"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3763523959667145,
+          39.46304538079826
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café ArtySana",
+        "Calle": "C/ de Dénia, 49",
+        "Descripción": "Acerca el arte a todos sus clientes a través de exposiciones itinerantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3525776922698268,
+          39.47930330729291
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café Colomer",
+        "Calle": "Plaza de Fra Lluís Colomer, 7, Bajo B",
+        "Descripción": "Crepería y micro-tostador en Valencia, donde el sabor manda y el azúcar es opcional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34904101660099296,
+          39.46991198060426
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café Cros",
+        "Calle": "C/ dels Sants Just i Pastor, 58",
+        "Descripción": "Un espacio acogedor para celebraciones, talleres y catering con sabor casero y mucho mimo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37552528961201065,
+          39.4723362201073
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafeinómanos",
+        "Calle": "C/ de l'Ambaixador Vich, 11, bajo",
+        "Descripción": "Cafetería de especialidad multi-roaster para llevar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3478629742717489,
+          39.459173191157774
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafetería Guapas",
+        "Calle": "Avenida de Francia, 32",
+        "Descripción": "Desayunos, brunch y pastelería casera servidos siempre con amor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3909874607769018,
+          39.47064518080615
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafeto y Camellia",
+        "Calle": "C/ de Calixt III, 45, BJ 4",
+        "Descripción": "Una experiencia sensorial, con productos seleccionados y accesorios exclusivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3819616319417943,
+          39.468145155447
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Capicúa",
+        "Calle": "C/ Jesús 14",
+        "Descripción": "Local con alma familiar y cocina sin prisas, donde las hermanas Benito son el alma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3759879312110125,
+          39.46173734738877
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Fran ",
+        "Calle": "C/ Puerto Rico 29",
+        "Descripción": "Un local de take away donde la barra cobra protagonismo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36977830310683396,
+          39.46209465157528
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Raíz",
+        "Calle": "C/ Pintor Salvador Abril 34",
+        "Descripción": "Un refugio único que combina el arte del café de especialidad con un ambiente acogedor y cultural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36590022764506414,
+          39.466566905293135
+        ]
+      },
+      "properties": {
+        "Cafetería": "CATÉ Café y té",
+        "Calle": "C/ de Ciscar, 15",
+        "Descripción": "Calidad, sostenibilidad y variedad en cada taza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37555490126019303,
+          39.470910595870684
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cherry Blossom",
+        "Calle": "C/ de Moratín, 15",
+        "Descripción": "Un espacio en pleno centro de Valencia que celebra la primavera y la naturaleza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3860237607770259,
+          39.46735685238152
+        ]
+      },
+      "properties": {
+        "Cafetería": "CLEM Café",
+        "Calle": "C/ de Conca, 40, Extramurs, 46007 ",
+        "Descripción": "Destaca por su propuesta de comida vegetariana, vegana y sin gluten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37768583194154537,
+          39.47516294846508
+        ]
+      },
+      "properties": {
+        "Cafetería": "Coffee & Bikes",
+        "Calle": "C. de la Puríssima, 1",
+        "Descripción": "Un punto de encuentro donde el ciclismo y la cultura del café se unen "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3673215049530344,
+          39.46505107307234
+        ]
+      },
+      "properties": {
+        "Cafetería": "COPPER (Specialty coffee & brunch)",
+        "Calle": "C/ de Borriana, 12",
+        "Descripción": "Un espacio pet friendly donde tu mascota es siempre bienvenida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3781609742713537,
+          39.46940601112922
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cult Café",
+        "Calle": "C/ de l'Arquebisbe Mayoral, 7, Bajo",
+        "Descripción": "Tostaduría y cafetería centrada en cafés de origen, con tueste propio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3698362742714773,
+          39.46654985468693
+        ]
+      },
+      "properties": {
+        "Cafetería": "DOCTA Coffee",
+        "Calle": "Gran Via del Marqués del Túria, 34",
+        "Descripción": "Especialidad, arte y diseño en el centro de Valencia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33015853194182215,
+          39.46734715240946
+        ]
+      },
+      "properties": {
+        "Cafetería": "Doux-Amer Café",
+        "Calle": "C/ de Just Vilar, 29",
+        "Descripción": "Una amplia variedad de opciones de brunch creativo y saludable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.367598568447378,
+          39.47052783705455
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Sorní 19",
+        "Descripción": "Un espacio para desconectar, trabajar o disfrutar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3746687346020912,
+          39.46925165609105
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Roger de Lauria",
+        "Descripción": "Destaca por su trazabilidad y tueste preciso "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3674912800954963,
+          39.46505312531952
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee",
+        "Calle": "C/ Almirante Cadarso",
+        "Descripción": "Un local en el que el diseño, la experiencia y la calidad del café encajan en perfecta sintonía "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3762573196724004,
+          39.47871360794019
+        ]
+      },
+      "properties": {
+        "Cafetería": "El Coffi del Carmen",
+        "Calle": "C/ de la Creu, 4, bajo derecha",
+        "Descripción": "Ambiente acogedor, comida casera de alta calidad, y buen café."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3711075781258848,
+          39.46286260736618
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad  Ruzafa",
+        "Calle": "Mercado de Ruzafa Casetas exteriores 112-116, 46006",
+        "Descripción": "Café de especialidad, trazable, sostenible y respetuoso con el medio ambiente."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3796047602827756,
+          39.47684983760121
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad - Barrio del Carmen",
+        "Calle": "C/ dels Cavallers, 45",
+        "Descripción": "Cada sorbo refleja un proceso artesanal, justo y respetuoso con el planeta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3844112784470769,
+          39.46671267750984
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad Arrancapins",
+        "Calle": "C/ de Sant Francesc de Borja, 4",
+        "Descripción": "Compromiso con la calidad, el respeto al medio ambiente y el fortalecimiento de las comunidades caficultoras."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3686684607767994,
+          39.47318547203109
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fav Coffee",
+        "Calle": "Plaza de la Reina",
+        "Descripción": "Una farmacia convertida en cafetería, con opciones veganas y vegetarianas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34591219885242547,
+          39.52745076890424
+        ]
+      },
+      "properties": {
+        "Cafetería": "Federal Café",
+        "Calle": "C/ de l'Ambaixador Vich, 15",
+        "Descripción": "Ambiente acogedor y cosmopolita, inspirado en la cultura australiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3663428607771949,
+          39.46260014908032
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fika",
+        "Calle": "C/ del Duc de Calàbria, 16",
+        "Descripción": "Una tradición sueca hecha local"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3721446742716129,
+          39.46265098135682
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fiveo Coffee",
+        "Calle": "C/ Dr. Serrano 1",
+        "Descripción": "Un local que rompe con lo tradicional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3693981724252695,
+          39.46352761432591
+        ]
+      },
+      "properties": {
+        "Cafetería": "FloRa bake & Espresso",
+        "Calle": "C/ del Dr. Sumsi, 8",
+        "Descripción": "Aquí los pasteles se disfrutan mejor con el sabor intenso su café. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38105533378830103,
+          39.4628149837892
+        ]
+      },
+      "properties": {
+        "Cafetería": "Flying Bean Coffee",
+        "Calle": "C/ del Doctor Vila Barberà, 12",
+        "Descripción": "Ganos tostados en el local, extracción precisa con la Black Eagle y opciones como Nitro Cold Brew"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3878437204015091,
+          39.457515208455675
+        ]
+      },
+      "properties": {
+        "Cafetería": "Foc Coffee",
+        "Calle": "C/ Mateu i Sanç, 25",
+        "Descripción": "Café de alta calidad a precios razonables"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3288881607768478,
+          39.47174456571907
+        ]
+      },
+      "properties": {
+        "Cafetería": "FOUR Specialty Coffee & Bistro",
+        "Calle": "C/ d'Espadà, 31",
+        "Descripción": "Opciones vegetarianas y veganas, ingredientes frescos y un ambiente acogedor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38302604709445354,
+          39.47724174989385
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fran Café",
+        "Calle": "C/ de Puerto Rico, 29, L'Eixample, 46004",
+        "Descripción": "Un pequeño rincón situado en el barrio de Russafa que invita a entrar y probar su café take away."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3669820652854036,
+          39.462240493804586
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fumi Specialty Coffee",
+        "Calle": "C/ de Matias Perelló, 37",
+        "Descripción": "Un espacio donde la pausa del café se convierte en tu ritual diario de autocuidado."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3541092607770252,
+          39.466714519458975
+        ]
+      },
+      "properties": {
+        "Cafetería": "Gartxi Coffee",
+        "Calle": "Avenida del Port, 65, Bajo Izquierda, Camins al Grau, 46021 ",
+        "Descripción": "Dispone además de un patio interior, perfecto para disfrutar de un desayuno al aire libre."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36364918776601896,
+          39.463571782257794
+        ]
+      },
+      "properties": {
+        "Cafetería": "Gigi World Coffee Specialty",
+        "Calle": "C/ del Mestre Racional, 3, Carrer Quart, 7, 46005 ",
+        "Descripción": "Apuesta por una cuidadosa selección de granos y tostado artesanal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37590987611755766,
+          39.47314222658894
+        ]
+      },
+      "properties": {
+        "Cafetería": "Goat Coffee Store",
+        "Calle": "C/ de l'Abadia de Sant Martí, 4",
+        "Descripción": "Ofrece opciones como el espresso italiano que algunos comparan con el de Roma."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3708730408876674,
+          39.48456364713898
+        ]
+      },
+      "properties": {
+        "Cafetería": "Henko Specialty Coffee",
+        "Calle": "C/  Almazora, 44, Bajo Izquierda",
+        "Descripción": "Ofrece café de origen, tostado fresco y adaptado a distintos métodos de preparación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3724026184472651,
+          39.47085489600989
+        ]
+      },
+      "properties": {
+        "Cafetería": "I’N Coffee & Tea",
+        "Calle": "C/ del Dr. Romagosa, 5, Ciutat Vella, 46002",
+        "Descripción": "Café de calidad, con tueste propio,  programa de fidelidad y ambiente acogedor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37369012279079056,
+          39.470622514114964
+        ]
+      },
+      "properties": {
+        "Cafetería": "Ikore Kofi – Centro",
+        "Calle": "C/ de Pascual i Genís, 3, Bajo Izquierda",
+        "Descripción": "Una experiencia completa que involucra la calidad, la sostenibilidad, la educación y la pasión por esta bebida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3711152023456291,
+          39.46253868423387
+        ]
+      },
+      "properties": {
+        "Cafetería": "Ikore Kofi – Market",
+        "Calle": "Plaza del Baró de Cortés",
+        "Descripción": "Selección de granos, tueste artesanal junto con catas y cursos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3746771775025985,
+          39.47896949348826
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffeina Brunch & Specialty",
+        "Calle": "C/ del Mur de Santa Anna, 4",
+        "Descripción": "Se specializa en brunchs con cafés de especialidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36566495594453396,
+          39.46482387203301
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffeina Brunch & Specialty",
+        "Calle": "C/ de la Reina Na Germana, 9, L'Eixample, 46005 ",
+        "Descripción": "Buen café en medio del bullicio de la ciudad."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36583331660108437,
+          39.46665525863932
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffetto Coffee Roasters",
+        "Calle": "C/ Císcar 15",
+        "Descripción": "Ofrece una frescura de tueste reciente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3293603480976449,
+          39.46499318593984
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaide Coffee",
+        "Calle": "C/ de la Reina, 23",
+        "Descripción": "Se distingue por la creatividad en sus preparaciones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38403684943671573,
+          39.47166259244352
+        ]
+      },
+      "properties": {
+        "Cafetería": "Karma Café",
+        "Calle": "Gran Vía de Fernando el Católico, 8",
+        "Descripción": "Un espacio pensado para la comodidad del cliente y atención a los detalles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40058294543547474,
+          39.48902915077553
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kohi Café de Especialidad",
+        "Calle": "C/ de la Safor, 9",
+        "Descripción": "Calificado con más de 80 puntos por la Specialty Coffee Association (SCA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3752599319419113,
+          39.46466464293723
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kopi Specialty Coffee",
+        "Calle": "Gran Via de les Germanies, 16",
+        "Descripción": "De la finca a la taza: un recorrido con trazabilidad y respeto por cada etapa del proceso."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37654123194153105,
+          39.47545936607535
+        ]
+      },
+      "properties": {
+        "Cafetería": "La Droguería | Speciality Coffee",
+        "Calle": "C/ de la Corretgeria, 23",
+        "Descripción": "Un espacio con decoración cuidada y un café de sabor intenso que marca la diferencia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37761530576597657,
+          39.4728117730842
+        ]
+      },
+      "properties": {
+        "Cafetería": "La Guashira Specialty Coffee",
+        "Calle": "C/ Flassaders 8",
+        "Descripción": "Produce variedades exóticas de café de especialidad en su propia finca de Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37078261844761284,
+          39.46096527048491
+        ]
+      },
+      "properties": {
+        "Cafetería": "Let it bloom",
+        "Calle": "C/ de Francesc Sempere, 4, Bj Izq 01",
+        "Descripción": "Calidad, conocimiento y pasión por el café de especialidad, con opciones veganas creativas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37523664543654106,
+          39.45948887575634
+        ]
+      },
+      "properties": {
+        "Cafetería": "Los Picos Café",
+        "Calle": "Plaza Manuel Granero 20",
+        "Descripción": "Dominan la AeroPress y preparan un sándwich cubano famoso en la ciudad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37159921889529324,
+          39.48242751269505
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mayan Coffees",
+        "Calle": "C/  d'Hug de Montcada, 19, La Saïdia, 46010 València, Valencia",
+        "Descripción": "Uno de los pocos locales que ofrece café infusionado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38363697197642266,
+          39.47572808262683
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mayan Coffees",
+        "Calle": "C/ Murillo 54",
+        "Descripción": "Opciones seleccionadas para resaltar las características únicas de cada grano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34860338961200177,
+          39.47285622723601
+        ]
+      },
+      "properties": {
+        "Cafetería": "Maybean Café",
+        "Calle": "C/ del Dr. Manuel Candela, 75",
+        "Descripción": "Ideal para trabajar o disfrutar de un brunch. Ofrece comida saludable, con opciones veganas y sin gluten."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3782946750832231,
+          39.477571806016755
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mestizo",
+        "Calle": "C/ del Portal de Valldigna, 9",
+        "Descripción": "Terraza y dos salas, pet friendly, con opciones veganas y sin gluten para todos los gustos."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3321588184476017,
+          39.46158595272571
+        ]
+      },
+      "properties": {
+        "Cafetería": "MiKENGO",
+        "Calle": "C. del Dr. Josep Juan Dómine, 9, bajo izquierda",
+        "Descripción": "Un nuevo concepto en café y comida. Ofrece café de especialidad, bizcochos y bebidas caseras, increíbles tostadas y opciones sanas para disfrutar en cualquier momento del día"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3766286615917489,
+          39.46623834773836
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mora caffè",
+        "Calle": "C/ de Castellón, 2",
+        "Descripción": "Ofrece café de alta calidad con un enfoque en el espresso italiano. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3633184761173056,
+          39.48035216730787
+        ]
+      },
+      "properties": {
+        "Cafetería": "Navel Brunch and coffee",
+        "Calle": "C/  de Menéndez y Pelayo, 5",
+        "Descripción": "Parada obligatoria para los amantes del café. Envuélvete en el sabor refinado del verdadero espresso italiano."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3655441715911951,
+          39.5353076046395
+        ]
+      },
+      "properties": {
+        "Cafetería": "Near Me Specialty Coffee",
+        "Calle": "Plaza del Col·legi del Patriarca, 3",
+        "Descripción": " ¿Alguna vez has visto cómo tu café se enlata en tiempo real? "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3777289607767482,
+          39.47464243156636
+        ]
+      },
+      "properties": {
+        "Cafetería": "News & Coffee",
+        "Calle": "Plaza Doctor Collado",
+        "Descripción": "Un espacio que combina la venta de revistas y prensa con la oferta de café de alta calidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38546260310653835,
+          39.469565552403445
+        ]
+      },
+      "properties": {
+        "Cafetería": "Nuwanda Coffee",
+        "Calle": "C/ del Doctor Sanchis Sivera, 8",
+        "Descripción": "Inspirada en la película \"El Club de los Poetas Muertos\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3843487742712954,
+          39.47181065764392
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pals cafe. Specialty coffee",
+        "Calle": "C/ Mestre Palau, 4",
+        "Descripción": "Combina la energía de la gran ciudad con la calidez de una comunidad cercana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.372090734602589,
+          39.467154732064586
+        ]
+      },
+      "properties": {
+        "Cafetería": "Paper cup specialty coffee",
+        "Calle": "C/ de Ciril Amorós, 30",
+        "Descripción": "Café de especialidad tostado en casa y propuestas creativas como el horchata latte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38873473009523873,
+          39.474530898196925
+        ]
+      },
+      "properties": {
+        "Cafetería": "Paramoka",
+        "Calle": "C/ de Sant Ignasi de Loiola, 4, Extramurs, 46008 ",
+        "Descripción": "Tuestes diseñados para cada método: moka, filtro y espresso."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37135995959437496,
+          39.473280380656476
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pure coffeine",
+        "Calle": "C/ de la Pau, 23",
+        "Descripción": "Modelo Grab&Go, tecnología para garantizar calidad constante "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3711237608824874,
+          39.46951810440849
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pure Coffeine",
+        "Calle": "Carrer d'Isabel la Catòlica, 2",
+        "Descripción": "Buscan convertir un ritual diario en algo accesible para todos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37087544005911055,
+          39.48503449740389
+        ]
+      },
+      "properties": {
+        "Cafetería": "Puto Café",
+        "Calle": "C/ Senda de l'Aire, 2",
+        "Descripción": "La cafetería más viral de Valencia: si dices esta palabra malsonante, te cobran menos por el café."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3806132264195082,
+          39.47624546417114
+        ]
+      },
+      "properties": {
+        "Cafetería": "Q7th Specialty Coffee",
+        "Calle": "Calle Quart, 7, 46001",
+        "Descripción": "Cafés de origen diverso y múltiples formas de preparación"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3548848849151658,
+          39.483295676182784
+        ]
+      },
+      "properties": {
+        "Cafetería": "Raíces Café",
+        "Calle": "Eduardo Boscá 24",
+        "Descripción": "U refugio para los amantes de esta bebida, pero también del arte o la música."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37883651926020967,
+          39.473554179671794
+        ]
+      },
+      "properties": {
+        "Cafetería": "Retrogusto Coffeemates",
+        "Calle": "Mercado Central – Palcos 169-170",
+        "Descripción": "Ubicado en el corazón del Mercado Central "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36295000310598513,
+          39.48538516166557
+        ]
+      },
+      "properties": {
+        "Cafetería": "Riot Specialty Coffee",
+        "Calle": "C/ del Doctor Vicent Zaragoza, 15",
+        "Descripción": "Alog más que café, con cookies variadas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3718628846989651,
+          39.46796832815813
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Cirilo Amorós",
+        "Calle": "C/ de Ciril Amorós, 35, L'Eixample, 46004 ",
+        "Descripción": "Café de especialidad con compromiso por la sostenibilidad y el comercio justo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37529611195918033,
+          39.46985670054691
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Roger de Lauria",
+        "Calle": "C/ de Roger de Llòria, 3, Ciutat Vella, 46002 ",
+        "Descripción": "Local minimalista que destaca por su compromiso con la sostenibilidad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37632608013724483,
+          39.47830405480426
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Samaniego",
+        "Calle": "C/ de Samaniego, 18, Ciutat Vella, 46003 ",
+        "Descripción": "Ofrece todo tipo de variedades del café dependiendo de la temporada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3678717580089736,
+          39.46783580887315
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Turia",
+        "Calle": "Gran Via del Marqués del Túria, 54, L'Eixample, 46005",
+        "Descripción": "Diseño urbano pensado para el disfrute diario."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32991881844749626,
+          39.46491156237539
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tallat Specialty Coffee",
+        "Calle": "C/ Barraca 25",
+        "Descripción": "Se ha consolidado como un punto de encuentro para amantes del café"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37629433460079903,
+          39.4737388985909
+        ]
+      },
+      "properties": {
+        "Cafetería": "The Coffee",
+        "Calle": "C/ dels Drets, 3",
+        "Descripción": "Lo mejor del café brasileño junto con la pureza y perfeccionismo japonés."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3585465922759727,
+          39.45601381904573
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tinobu Healthy food & Coffee",
+        "Calle": "Avenida de l'Institut Obrer de València, 15",
+        "Descripción": "Desayunos sanos tanto dulces como salados, 100% sin gluten y sin lactosa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39532604728281673,
+          39.460642888218175
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tostarte Specialty Coffee",
+        "Calle": "C/ de la Vall d'Uixó, 3",
+        "Descripción": "Un espacio acogedor para trabajar, socializar o ir con tu mascota. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3770898031063784,
+          39.47428934228104
+        ]
+      },
+      "properties": {
+        "Cafetería": "UNCAFE",
+        "Calle": "C/ de Martín Mengod, 6, Ciutat Vella, 46001 ",
+        "Descripción": "Conocido por la pasión de su barista, dispuesto a compartir historias sobre Valencia. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37660293194150374,
+          39.47614649383052
+        ]
+      },
+      "properties": {
+        "Cafetería": "Vuka (Coffee & Brunch)",
+        "Calle": "C/ dels Juristes, 12, Ciutat Vella, 46001 ",
+        "Descripción": "Café de especialidad y repostería artesanal cerca de la Plaza de la Virgen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafetería Barrio  Calle Coordenadas",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Aurora. Specialty Coffee C/ d'Escolano, 25 39.47144165609073  -0.37911058961204647",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Barista Café C/ Domenyo, 4, a 39.496856436809615  -0.47048280391334313",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Bikini Cabanyal C/ de les Drassanes, 52, Poblats Marítims, 46011  39.472500000628706  -0.32624503275492206",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Blackbird Café C/ Reina Na María 7 39.46205388527896  -0.3721753601519024",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Blackbird Café – Little Blackbird C/ Danzas 2 39.47596818836326  -0.3786984919463112",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Bluebell Coffee Roasters C/ Buenos Aires 3 39.46204714483405  -0.3758182057687584",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Borja Specialty Coffee C/ de Vicente Beltrán Grimal, 23 39.46019470570202  -0.34920681844764045",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Boscon Coffee C/ de Finlàndia, 16, El Pla del Real, 46010  39.47176144583108  -0.35925813090877085",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "BOTANIC Café-Té C/ de Quart, 91 39.47555447366901  -0.38642368961192786",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Brewtalist Coffee Hub C/ de Baldoví, 2 39.46910828270907  -0.37885454543621067",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Butter Eatery House C/ del Gravador Esteve, 33 39.46916716238398  -0.36607276159097385",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café ArtySana C/ de La Reina, 56 39.46688860215571  -0.3290596904572107",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café ArtySana C/ de Dénia, 49 39.46304538079826  -0.3763523959667145",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café Colomer Plaza de Fra Lluís Colomer, 7, Bajo B 39.47930330729291  -0.3525776922698268",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Café Cros C/ dels Sants Just i Pastor, 58 39.46991198060426  -0.34904101660099296",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafeinómanos C/ de l'Ambaixador Vich, 11, bajo 39.4723362201073  -0.37552528961201065",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafetería Guapas Avenida de Francia, 32 39.459173191157774  -0.3478629742717489",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cafeto y Camellia C/ de Calixt III, 45, BJ 4 39.47064518080615  -0.3909874607769018",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Capicúa C/ Jesús 14 39.468145155447  -0.3819616319417943",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Fran  C/ Puerto Rico 29 39.46173734738877  -0.3759879312110125",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Casa Raíz C/ Pintor Salvador Abril 34 39.46209465157528  -0.36977830310683396",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "CATÉ Café y té C/ de Ciscar, 15 39.466566905293135  -0.36590022764506414",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cherry Blossom C/ de Moratín, 15 39.470910595870684  -0.37555490126019303",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "CLEM Café C/ de Conca, 40, Extramurs, 46007  39.46735685238152  -0.3860237607770259",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Coffee & Bikes C. de la Puríssima, 1 39.47516294846508  -0.37768583194154537",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "COPPER (Specialty coffee & brunch) C/ de Borriana, 12 39.46505107307234  -0.3673215049530344",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Cult Café C/ de l'Arquebisbe Mayoral, 7, Bajo 39.46940601112922  -0.3781609742713537",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "DOCTA Coffee Gran Via del Marqués del Túria, 34 39.46654985468693  -0.3698362742714773",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Doux-Amer Café C/ de Just Vilar, 29 39.46734715240946  -0.33015853194182215",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee C/ Sorní 19 39.47052783705455  -0.367598568447378",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee C/ Roger de Lauria 39.46925165609105 -0.3746687346020912",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "East Crema Coffee C/ Almirante Cadarso 39.46505312531952  -0.3674912800954963",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "El Coffi del Carmen C/ de la Creu, 4, bajo derecha 39.47875501389244  -0.37737311844698757",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad Ruzafa Mercado de Ruzafa Casetas exteriores 112-116, 46006 39.46286260736618  -0.3711075781258848",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad - Barrio del Carmen C/ dels Cavallers, 45 39.47684983760121  -0.3796047602827756",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Elixir Café de Especialidad Arrancapins C/ de Sant Francesc de Borja, 4 39.46671267750984  -0.3844112784470769",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fav Coffee Plaza de la Reina 39.47318547203109  -0.3686684607767994",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Federal Café C/ de l'Ambaixador Vich, 15 39.52745076890424  -0.34591219885242547",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fika C/ del Duc de Calàbria, 16 39.46260014908032  -0.3663428607771949",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fiveo Coffee C/ Dr. Serrano 1 39.46265098135682  -0.3721446742716129",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "FloRa bake & Espresso C/ del Dr. Sumsi, 8 39.46352761432591  -0.3693981724252695",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Flying Bean Coffee C/ del Doctor Vila Barberà, 12 39.4628149837892  -0.38105533378830103",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "FOUR Specialty Coffee & Bistro C/ d'Espadà, 31 39.47174456571907  -0.3288881607768478",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fran Café C/ de Puerto Rico, 29, L'Eixample, 46004 39.47724174989385  -0.38302604709445354",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Fumi Specialty Coffee C/ de Matias Perelló, 37 39.462240493804586  -0.3669820652854036",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Gartxi Coffee Avenida del Port, 65, Bajo Izquierda, Camins al Grau, 46021  39.466714519458975  -0.3541092607770252",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Gigi World Coffee Specialty C/ del Mestre Racional, 3, Carrer Quart, 7, 46005  39.463571782257794  -0.36364918776601896",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Goat Coffee Store C/ de l'Abadia de Sant Martí, 4 39.47314222658894, -0.37590987611755766",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Henko Specialty Coffee C/ Almazora, 44, Bajo Izquierda 39.48456364713898  -0.3708730408876674",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "I’N Coffee & Tea C/ del Dr. Romagosa, 5, Ciutat Vella, 46002 39.47085489600989  -0.3724026184472651",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Ikore Kofi – Centro C/ de Pascual i Genís, 3, Bajo Izquierda 39.470622514114964  -0.37369012279079056",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Ikore Kofi – Market Plaza del Baró de Cortés 39.46253868423387  -0.3711152023456291",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffeina Brunch & Specialty C/ del Mur de Santa Anna, 4 39.47896949348826  -0.3746771775025985",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffeina Brunch & Specialty C/ de la Reina Na Germana, 9, L'Eixample, 46005  39.46482387203301  -0.36566495594453396",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaffetto Coffee Roasters C/ Císcar 15 39.46665525863932  -0.36583331660108437",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kaide Coffee C/ de la Reina, 23 39.46499318593984  -0.3293603480976449",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Karma Café Gran Vía de Fernando el Católico, 8 39.47166259244352  -0.38403684943671573",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kohi Café de Especialidad C/ de la Safor, 9 39.48902915077553  -0.40058294543547474",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Kopi Specialty Coffee Gran Via de les Germanies, 16 39.46466464293723  -0.3752599319419113",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "La Droguería | Speciality Coffee C/ de la Corretgeria, 23 39.47545936607535  -0.37654123194153105",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "La Guashira Specialty Coffee C/ Flassaders 8 39.4728117730842  -0.37761530576597657",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Let it bloom C/ de Francesc Sempere, 4, Bj Izq 01 39.46096527048491  -0.37078261844761284",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Los Picos Café Plaza Manuel Granero 20 39.45948887575634 -0.37523664543654106",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mayan Coffees C/ d'Hug de Montcada, 19, La Saïdia, 46010 València, Valencia 39.48242751269505  -0.37159921889529324",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mayan Coffees C/ Murillo 54 39.47572808262683  -0.38363697197642266",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Maybean Café C/ del Dr. Manuel Candela, 75 39.47285622723601  -0.34860338961200177",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mestizo C/ del Portal de Valldigna, 9 39.477571806016755  -0.3782946750832231",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "MiKENGO C. del Dr. Josep Juan Dómine, 9, bajo izquierda 39.46158595272571  -0.3321588184476017",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Mora caffè C/ de Castellón, 2 39.46623834773836  -0.3766286615917489",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Navel Brunch and coffee C/ de Menéndez y Pelayo, 5 39.48035216730787  -0.3633184761173056",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Near Me Specialty Coffee Plaza del Col·legi del Patriarca, 3 39.5353076046395  -0.3655441715911951",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "News & Coffee Plaza Doctor Collado 39.47464243156636  -0.3777289607767482",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Nuwanda Coffee C/ del Doctor Sanchis Sivera, 8 39.469565552403445  -0.38546260310653835",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pals cafe. Specialty coffee C/ Mestre Palau, 4 39.47181065764392  -0.3843487742712954",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Paper cup specialty coffee C/ de Ciril Amorós, 30 39.467154732064586  -0.372090734602589",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Paramoka C/ de Sant Ignasi de Loiola, 4, Extramurs, 46008  39.474530898196925  -0.38873473009523873",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pure coffee C/ de la Pau, 23 39.473280380779315  -0.37188567242492915",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Pure Coffeine Carrer d'Isabel la Catòlica, 2 39.46947669320444  -0.37117740495291196",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Puto Café C/ Senda de l'Aire, 2 39.48503449740389, -0.37087544005911055",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Q7th Specialty Coffee Calle Quart, 7, 46001 39.47624546417114  -0.3806132264195082",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Raíces Café Eduardo Boscá 24 39.483295676182784  -0.3548848849151658",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Retrogusto Coffeemates Mercado Central – Palcos 169-170 39.473554179671794 -0.37883651926020967",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Riot Specialty Coffee C/ del Doctor Vicent Zaragoza, 15 39.48538516166557  -0.36295000310598513",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Cirilo Amorós C/ de Ciril Amorós, 35, L'Eixample, 46004  39.46796832815813  -0.3718628846989651",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Roger de Lauria C/ de Roger de Llòria, 3, Ciutat Vella, 46002  39.46985670054691  -0.37529611195918033",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Samaniego C/ de Samaniego, 18, Ciutat Vella, 46003  39.47830405480426  -0.37632608013724483",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Syra Coffee – Turia Gran Via del Marqués del Túria, 54, L'Eixample, 46005 39.46783580887315  -0.3678717580089736",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tallat Specialty Coffee C/ Barraca 25 39.46491156237539  -0.32991881844749626",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "The Coffee C/ dels Drets, 3 39.4737388985909  -0.37629433460079903",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tinobu Healthy food & Coffee Avenida de l'Institut Obrer de València, 15 39.45601381904573  -0.3585465922759727",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Tostarte Specialty Coffee C/ de la Vall d'Uixó, 3 39.460642888218175  -0.39532604728281673",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "UNCAFE C/ de Martín Mengod, 6, Ciutat Vella, 46001  39.47428934228104  -0.3770898031063784",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": NaN,
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "Cafetería": "Vuka (Coffee & Brunch) C/ dels Juristes, 12, Ciutat Vella, 46001  39.47614649383052  -0.37660293194150374",
+        "Calle": NaN,
+        "Descripción": NaN
+      }
+    }
+  ]
+}
