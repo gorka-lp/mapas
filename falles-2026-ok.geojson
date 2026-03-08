@@ -3314,21 +3314,6 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "objectid": 8266,
-        "id_falla": 000,
-        "nombre": "Falla Municipal",
-        "seccion": "sin sección",
-        "artista": "Alejandro Santaeulalia / Vicente Llácer",
-        "lema": "HOPE",
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/219.jpg",
-        "experim": 0,
-        "geo_point_2d": {
-          "lon": -0.37662210436087573,
-          "lat": 39.47020756436468
-        }
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
