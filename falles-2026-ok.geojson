@@ -933,25 +933,6 @@
           39.45541546762011
         ],
         "type": "Point"
-      },
-      "properties": {
-        "objectid": 8409,
-        "id_falla": 391,
-        "nombre": null,
-        "seccion": null,
-        "fallera": null,
-        "presidente": null,
-        "artista": null,
-        "lema": null,
-        "anyo_fundacion": 2017,
-        "distintivo": "-",
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/391.jpg",
-        "experim": null,
-        "geo_point_2d": {
-          "lon": -0.3942222945455906,
-          "lat": 39.45541546762011
-        }
-      }
     },
     {
       "type": "Feature",
@@ -7677,25 +7658,6 @@
           39.28052325606388
         ],
         "type": "Point"
-      },
-      "properties": {
-        "objectid": 8366,
-        "id_falla": 381,
-        "nombre": null,
-        "seccion": null,
-        "fallera": null,
-        "presidente": null,
-        "artista": null,
-        "lema": null,
-        "anyo_fundacion": 2004,
-        "distintivo": "Argent (2016)",
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/381.jpg",
-        "experim": 0,
-        "geo_point_2d": {
-          "lon": -0.27778532579105064,
-          "lat": 39.28052325606388
-        }
-      }
     },
     {
       "type": "Feature",
@@ -9021,25 +8983,6 @@
           39.491657406622934
         ],
         "type": "Point"
-      },
-      "properties": {
-        "objectid": 8490,
-        "id_falla": 365,
-        "nombre": null,
-        "seccion": null,
-        "fallera": null,
-        "presidente": null,
-        "artista": null,
-        "lema": null,
-        "anyo_fundacion": 1986,
-        "distintivo": "Brillants (2016)",
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/365.jpg",
-        "experim": 1,
-        "geo_point_2d": {
-          "lon": -0.384560914975047,
-          "lat": 39.491657406622934
-        }
-      }
     },
     {
       "type": "Feature",
@@ -9246,25 +9189,6 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "objectid": 8475,
-        "id_falla": 383,
-        "nombre": null,
-        "seccion": null,
-        "fallera": null,
-        "presidente": null,
-        "artista": null,
-        "lema": null,
-        "anyo_fundacion": 2007,
-        "distintivo": "Argent (2016)",
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/383.jpg",
-        "experim": 0,
-        "geo_point_2d": {
-          "lon": -0.39916320239478004,
-          "lat": 39.49333969668813
-        }
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -9274,25 +9198,6 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "objectid": 8468,
-        "id_falla": 393,
-        "nombre": null,
-        "seccion": null,
-        "fallera": null,
-        "presidente": null,
-        "artista": null,
-        "lema": null,
-        "anyo_fundacion": null,
-        "distintivo": null,
-        "boceto": "https://servicios.lasprovincias.es/infografias/2026/03/fallas/bocetos/393.jpg",
-        "experim": null,
-        "geo_point_2d": {
-          "lon": -0.405407931044737,
-          "lat": 39.48067945912474
-        }
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
