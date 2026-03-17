@@ -3395,9 +3395,9 @@
         "Distrito / Barrio": "LA ROQUETA-ARRANCAPINS",
         "dia": "Miércoles 18",
         "calle": "San Vicente",
-        "hora": "18:00 horas",
+        "hora": "00:25 horas",
         "geo_point_2d": "39.46643844060057, -0.37951592968874953",
-        "color": "Claveles rojos"
+        "color": "Falla de la Fallera Mayor Carmen Prades Gil"
       }
     },
     {
@@ -3414,11 +3414,11 @@
         "Id. Falla": 47,
         "Nom / Nombre": "Alberic-Heroi Romeu",
         "Distrito / Barrio": "LA ROQUETA-ARRANCAPINS",
-        "dia": "Miércoles 18",
+        "dia": "Martes 17",
         "calle": "San Vicente",
-        "hora": "18:00 horas",
+        "hora": "00:45 horas",
         "geo_point_2d": "39.46868311625134, -0.3895853267769159",
-        "color": "Claveles rojos"
+        "color": "Falla de Marta Mercader Roig, Fallera Mayor Infantil"
       }
     },
     {
