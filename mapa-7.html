@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valencia vs AM - Infografía Final</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        /* Contenedor general para aislar los estilos y evitar que rompan el CMS */
+        .mapa-metropolitano-container {
+            position: relative;
+            width: 100%;
+            height: 600px;
+            /* Altura fija (puedes ajustar este valor) */
+            margin: 0 auto;
+            background: #ffffff;
+            font-family: "Guardian Sans", sans-serif, system-ui, Arial;
+            overflow: hidden;
+            z-index: 1;
+            /* Para mantener los controles por encima del mapa sin interferir con la web */
+        }
+
+        #map {
+            position: absolute !important;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            z-index: 2; /* Ligeramente subido para esquivar fondos/viñeteados del CMS */
+            background-color: #f7f7f7; /* Fondo del mapa para evitar que el CMS se coma el blanco */
+        }
+
+        /* Escudo protector contra el Lazy Load y estilos globales ocultos del periódico */
+        .mapa-metropolitano-container img {
+            max-width: none !important;
+            display: inline-block !important;
+            visibility: visible !important;
+            opacity: 1 !important;
+        }
+
+        .control-panel {
+            position: absolute;
+            top: 50%;
+            left: 62%;
+            z-index: 1000;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+
+        #year-display {
+            font-size: 8em;
+            font-weight: 900;
+            color: #2c3e50;
+            line-height: 0.8;
+            letter-spacing: -4px;
+            opacity: 0.7;
+        }
+
+        .label {
+            font-size: 1.1em;
+            text-transform: uppercase;
+            letter-spacing: 6px;
+            color: #de0429;
+            font-weight: 800;
+            margin-left: 10px;
+        }
+
+        .static-label {
+            background: none !important;
+            border: none !important;
+            box-shadow: none !important;
+            color: #2c3e50;
+            font-weight: 800;
+            font-size: 11px;
+            text-transform: uppercase;
+            white-space: nowrap;
+            line-height: 1.1;
+        }
+
+        .perc-tag {
+            color: #de0429;
+            font-weight: 900;
+            font-size: 13px;
+            display: block;
+        }
+
+        .leaflet-interactive {
+            transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Contenedor general para el mapa -->
+    <div class="mapa-metropolitano-container">
+        <div class="control-panel">
+            <span class="label">Evolución</span>
+            <div id="year-display">2000</div>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script>
+        // TRUCO ANTIBLOQUEO PENSADO PARA CMS: Muchos editores de periódicos borran el <link> original del código al pegarlo (sanitización de seguridad).
+        // Si la hoja de estilo de Leaflet no está, el mapa se queda con opacidad 0 o las cosas desaparecen. Lo inyectamos a la fuerza:
+        if (!document.querySelector('link[href*="leaflet.css"]')) {
+            const linkCSS = document.createElement('link');
+            linkCSS.rel = 'stylesheet';
+            linkCSS.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+            document.head.appendChild(linkCSS);
+        }
+
+        const map = L.map('map', { zoomControl: false, attributionControl: false, zoomSnap: 0.1 }).setView([39.48, -0.32], 11.4);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+        let geojsonLayer;
+        let currentYear = 2000;
+        const MAX_YEAR = 2025;
+        const display = document.getElementById('year-display');
+
+        function getRadius(feature, year) {
+            const pop = parseFloat(feature.properties[year]) || parseFloat(feature.properties["2000"]) || 1;
+            const p2000 = parseFloat(feature.properties["2000"]) || 1;
+            const ratio = pop / p2000;
+            return (Math.sqrt(pop) / 11.5) * Math.pow(ratio, 2.5);
+        }
+
+        function updateMap() {
+            display.innerText = currentYear;
+            geojsonLayer.eachLayer(layer => {
+                layer.setRadius(getRadius(layer.feature, currentYear));
+            });
+        }
+
+        function showFinalLabels(featuresData) {
+            const calculated = featuresData.map(f => {
+                const p00 = parseFloat(f.properties["2000"]) || 0;
+                const p25 = parseFloat(f.properties["2025"]) || 0;
+                const incremento = p00 > 0 ? ((p25 - p00) / p00 * 100) : 0;
+                return { ...f, inc: incremento };
+            });
+
+            const valencia = calculated.find(f => f.properties.Municipio.match(/Val/i));
+            const rest = calculated.filter(f => !f.properties.Municipio.match(/Val/i));
+            const top15 = rest.sort((a, b) => b.inc - a.inc).slice(0, 15);
+
+            const targets = [valencia, ...top15];
+            if (targets.length === 0 || !valencia) return;
+
+            const valLng = valencia.geometry.coordinates[0];
+            
+            // Dividir en 2 columnas: izquierda y derecha de Valencia
+            let leftItems = targets.filter(f => f.geometry.coordinates[0] < valLng - 0.015);
+            let rightItems = targets.filter(f => f.geometry.coordinates[0] >= valLng - 0.015);
+
+            // Ordenar de norte a sur por latitud para que queden siempre en formato lista natural
+            // Esto garantiza que la lista se lea bien y además EVITA que las líneas de interconexión se crucen entre sí.
+            leftItems.sort((a, b) => b.geometry.coordinates[1] - a.geometry.coordinates[1]);
+            rightItems.sort((a, b) => b.geometry.coordinates[1] - a.geometry.coordinates[1]);
+
+            // Obtener el bounding box (la vista viva actual del mapa, sea móvil o desktop)
+            const bounds = map.getBounds();
+            const lngSpan = bounds.getEast() - bounds.getWest();
+            const latSpan = bounds.getNorth() - bounds.getSouth();
+
+            // Ubicamos las columnas ajustándonos a la pantalla real (dejamos márgenes en los lados del 12% aprox)
+            const leftTargetLng = bounds.getWest() + (lngSpan * 0.12);
+            const rightTargetLng = bounds.getEast() - (lngSpan * 0.10);
+
+            // Límites norte/sur de la lista (usamos el 85% vertical para repartir los textos y no colapsar)
+            const startLat = bounds.getNorth() - (latSpan * 0.08);
+            const endLat = bounds.getSouth() + (latSpan * 0.08);
+
+            const distributeItems = (items, targetLng, side) => {
+                const count = items.length;
+                if(count === 0) return;
+
+                items.forEach((f, i) => {
+                    const coords = f.geometry.coordinates;
+                    const originLatLng = [coords[1], coords[0]];
+                    
+                    // Reparto equitativo en la Y calculada para el tamaño actual
+                    const fraction = count > 1 ? i / (count - 1) : 0.5;
+                    const targetLat = startLat - (fraction * (startLat - endLat));
+                    const labelPos = [targetLat, targetLng];
+
+                    const isValencia = f.properties.Municipio.match(/Val/i);
+                    const isIncrease = f.inc > 0;
+                    const valColor = '#de0429';
+                    const numColor = isIncrease ? '#de0429' : '#2c3e50';
+                    const mainColor = isValencia ? valColor : '#2c3e50';
+
+                    L.polyline([originLatLng, labelPos], {
+                        color: mainColor,
+                        weight: isValencia ? 2 : 1,
+                        opacity: isValencia ? 0.6 : 0.3,
+                        dashArray: '2, 4'
+                    }).addTo(map);
+
+                    // CSS dinámico según la columna para no salirnos nunca de la pantalla por los lados
+                    const alignmentStyle = side === 'left' 
+                        ? 'padding-left: 5px; text-align: left;' 
+                        : 'transform: translateX(-100%); padding-right: 5px; text-align: right;';
+
+                    L.marker(labelPos, {
+                        icon: L.divIcon({
+                            className: 'static-label',
+                            iconAnchor: [0, 10], // El ancla es el origen (0,0) sin importar la columna
+                            html: `<div style="${alignmentStyle}">
+                                      <div style="color:${mainColor}">${f.properties.Municipio}</div>
+                                      <span class="perc-tag" style="color:${numColor}">${isIncrease ? '+' : ''}${Math.round(f.inc)}%</span>
+                                   </div>`
+                        })
+                    }).addTo(map);
+                });
+            };
+
+            distributeItems(leftItems, leftTargetLng, 'left');
+            distributeItems(rightItems, rightTargetLng, 'right');
+        }
+
+        fetch("https://raw.githubusercontent.com/gorka-lp/mapas/main/poblacion-historico.geojson")
+            .then(res => res.json())
+            .then(data => {
+                geojsonLayer = L.geoJson(data, {
+                    pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+                        radius: getRadius(feature, 2000),
+                        fillColor: feature.properties.Municipio.match(/Val/i) ? '#de0429' : '#2c3e50',
+                        color: "#ffffff",
+                        weight: 2,
+                        fillOpacity: 0.7
+                    })
+                }).addTo(map);
+
+                // Forzar repintado por si el CMS arrancó el mapa en un estado de tamaño 0 o en segundo plano
+                setTimeout(() => {
+                    map.invalidateSize();
+                }, 400);
+
+                setTimeout(() => {
+                    const timer = setInterval(() => {
+                        if (currentYear >= MAX_YEAR) {
+                            clearInterval(timer);
+                            showFinalLabels(data.features);
+                        } else {
+                            currentYear++;
+                            updateMap();
+                        }
+                    }, 150);
+                }, 1000);
+            });
+    </script>
+
+</body>
+
+</html>
